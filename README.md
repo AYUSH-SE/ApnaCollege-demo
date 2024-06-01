@@ -1,2 +1,2 @@
 # ApnaCollege-demo
-This is My First gut repository
+This is My First git repository
